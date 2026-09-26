@@ -1,5 +1,7 @@
 # MAI-Image-2.5-Pro-Sample
 
+Blog Post: [MAI-Image-2.5 Pro for .NET Developers — Microsoft’s Own Image Model Lands in Foundry](https://taswar.zeytinsoft.com/mai-image-2-5-pro-dotnet-developers/)
+
 A minimal .NET console app that generates and edits images using the **MAI-Image-2.5-Pro** model hosted on **Azure AI Foundry**, with Entra ID (passwordless) authentication.
 
 Unlike the standard Azure OpenAI image models, MAI-Image models are exposed through a custom REST route (`/mai/v1/images/generations` and `/mai/v1/images/edits`) rather than the standard `openai/deployments/{model}/images/...` path used by the `Azure.AI.OpenAI` SDK's `ImageClient`. Because of this, the app calls the REST API directly with `HttpClient` instead of using the SDK's image client.
