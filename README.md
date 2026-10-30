@@ -1,5 +1,5 @@
 # MAI-Image-2.5-Pro C# Sample
-
+![MAI-Image-2.5-Pro C# Sample](MAI-Image-2.5-Pro-for-.NET-Developers-1024x683.webp)
 [![Build](https://github.com/taswar/MAI-Image-2.5-Pro-Sample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/taswar/MAI-Image-2.5-Pro-Sample/actions/workflows/dotnet.yml)
 ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
