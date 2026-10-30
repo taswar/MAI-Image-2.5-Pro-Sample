@@ -5,10 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-- 📖 Full walkthrough: [MAI-Image-2.5 Pro for .NET Developers — Microsoft’s Own Image Model Lands in Foundry](https://taswar.zeytinsoft.com/mai-image-2-5-pro-dotnet-developers/)
+- 📖 Full walkthrough: [MAI-Image-2.5 Pro for .NET Developers — Microsoft’s Own Image Model Lands in Foundry](https://taswar.zeytinsoft.com/mai-image-2-5-pro-dotnet-developers/?utm_source=github&utm_medium=readme&utm_campaign=MAI-Image-2.5-Pro-Sample&utm_content=walkthrough)
 - ⭐ If this sample helps you, star the repo so other .NET developers can find it.
 - 🔁 Related: [MAI Image 2.6 C# Demo](https://github.com/taswar/MAI-Image-26-Foundry-Demo) and [GPT Image 2.5 Flare and Sunburst Demo](https://github.com/taswar/GptImage2.5-flare-sunburst-demo)
-- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
+- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/?utm_source=github&utm_medium=readme&utm_campaign=MAI-Image-2.5-Pro-Sample&utm_content=ai-models-hub)
 - For my free ebook on prompt engineering, see [Prompt Engineering for .NET Developers](https://github.com/taswar/PromptEngineeringForDotNetDevelopers)
 
 A minimal .NET 10 console app that generates and edits images using the **MAI-Image-2.5-Pro** model hosted on **Microsoft Foundry**, with Entra ID (passwordless) authentication.
